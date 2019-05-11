@@ -31,35 +31,11 @@ Nginx、MySQL、OpenSSL、Medusa等。
 
 > yum -y install nginx openssl openssl-devel medusa
 
-如果有MySQL就忽略，如果没有就运行，也可以安装其他MySQL发行版。
-
-建议版本5.8。
+如果有MySQL就忽略，如果没有就运行，也可以安装其他MySQL发行版。建议版本5.7或5.8。
 
 > yum -y install mysql-community-server mysql-community-client mysql-community-devel
 
-MySQL数据库的配置，建议设置如下，以下为一部分配置。
+[MySQL数据库配置参考](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/mysqljian-yi-pei-zhi.md)
 
-\[client\]
 
-default-character-set=utf8mb4
-
-port=3306
-
-socket=/var/lib/mysql/mysql.sock
-
-\[mysql\] 
-
-default-character-set=utf8mb4
-
-\[mysqld\]
-
-character-set-client-handshake=FALSE
-
-character-set-server=utf8mb4
-
-collation-server=utf8mb4\_unicode\_ci
-
-init\_connect='SET NAMES utf8mb4'
-
-sql\_mode=STRICT\_TRANS\_TABLES,NO\_ZERO\_IN\_DATE,NO\_ZERO\_DATE,ERROR\_FOR\_DIVISION\_BY\_ZERO,NO\_AUTO\_CREATE\_USER,NO\_ENGINE\_SUBSTITUTION
 
