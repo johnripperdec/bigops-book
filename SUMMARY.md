@@ -6,7 +6,10 @@
 * [快速安装](er-jin-zhi-an-zhuang.md)
   * [准备环境](er-jin-zhi-an-zhuang/zhun-bei-huan-jing.md)
     * [MySQL建议配置](er-jin-zhi-an-zhuang/zhun-bei-huan-jing/mysqljian-yi-pei-zhi.md)
-    * Nginx建议配置
+    * [Nginx建议配置](er-jin-zhi-an-zhuang/zhun-bei-huan-jing/nginxjian-yi-pei-zhi.md)
+      * [nginx.conf](er-jin-zhi-an-zhuang/zhun-bei-huan-jing/nginxjian-yi-pei-zhi/nginxconf.md)
+      * sso.conf
+      * work.conf
   * [二进制安装](er-jin-zhi-an-zhuang/er-jin-zhi-an-zhuang.md)
   * 源代码安装
 * [接入第三方](jie-ru-di-san-fang.md)

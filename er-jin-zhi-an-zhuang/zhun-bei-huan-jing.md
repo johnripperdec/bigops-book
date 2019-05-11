@@ -39,7 +39,5 @@ MySQL，建议版本为5.7或5.8，如果已安装就忽略。也可以安装其
 
 [MySQL建议配置](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/mysqljian-yi-pei-zhi.md)
 
-Nginx建议配置
-
-
+[Nginx建议配置](/Nginx建议配置 "MySQL建议配置")
 
