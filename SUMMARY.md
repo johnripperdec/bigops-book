@@ -3,8 +3,9 @@
 * [介绍](README.md)
 * [B社区](chapter1.md)
 * [Changelog](changelog.md)
-* 二进制安装
-* 源代码安装
+* [安装](er-jin-zhi-an-zhuang.md)
+  * 二进制安装
+  * 源代码安装
 * [使用手册](shi-yong-shou-ce.md)
 * API
 * [QQ讨论群](qqtao-lun-qun.md)
