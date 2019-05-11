@@ -1,7 +1,7 @@
 # Summary
 
 * [介绍](README.md)
-* [社区](chapter1.md)
+* [社区](she-qu.md)
 * [变更日志](changelog.md)
 * [快速安装](er-jin-zhi-an-zhuang.md)
   * [准备环境](er-jin-zhi-an-zhuang/zhun-bei-huan-jing.md)
@@ -16,6 +16,4 @@
 * [API](api.md)
 * [QQ讨论群](qqtao-lun-qun.md)
 * [客户案例](ke-hu-an-li.md)
-* [联系我们](lian-xi-wo-men.md)
-* 使用手册
 
