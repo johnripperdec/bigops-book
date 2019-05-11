@@ -4,7 +4,8 @@
 * [社区](chapter1.md)
 * [变更日志](changelog.md)
 * [快速安装](er-jin-zhi-an-zhuang.md)
-  * 二进制安装
+  * [准备环境](er-jin-zhi-an-zhuang/zhun-bei-huan-jing.md)
+  * [二进制安装](er-jin-zhi-an-zhuang/er-jin-zhi-an-zhuang.md)
   * 源代码安装
 * [使用手册](shi-yong-shou-ce.md)
 * [API](api.md)
