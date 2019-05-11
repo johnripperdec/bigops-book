@@ -2,6 +2,8 @@
 
 **建议目录/etc/nginx/conf.d/**
 
+**修改2处server\_name为你的域名**
+
 ```
 upstream sso {
     server localhost:30001;
@@ -16,8 +18,8 @@ server {
 server {
     listen 443 ssl;
     server_name  sso.bigops.cn;
-    access_log  /opt/log/nginx/sso.bigops.cn.access.log main;
-    error_log  /opt/log/nginx/sso.bigops.cn.error.log;
+    access_log  /opt/ngxlog/sso.access.log main;
+    error_log  /opt/ngxlog/sso.error.log;
 
     location /signin {
         proxy_hide_header content-security-policy;

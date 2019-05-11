@@ -2,6 +2,8 @@
 
 **建议路径/etc/nginx/conf.d/**
 
+**修改server\_name为你的域名**
+
 ```
 upstream workbe {
     server localhost:30003;
@@ -10,8 +12,8 @@ upstream workbe {
 server {
     listen  80;
     server_name  work.bigops.cn;
-    access_log  /opt/log/nginx/work.bigops.cn.access.log main;
-    error_log  /opt/log/nginx/work.bigops.cn.error.log;
+    access_log  /opt/log/nginx/work.access.log main;
+    error_log  /opt/log/nginx/work.error.log;
     root  /opt/bigops/workfe;
     index index.html index.htm;
 
