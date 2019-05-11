@@ -5,6 +5,7 @@
 * [变更日志](changelog.md)
 * [快速安装](er-jin-zhi-an-zhuang.md)
   * [准备环境](er-jin-zhi-an-zhuang/zhun-bei-huan-jing.md)
+    * [MySQL建议配置](er-jin-zhi-an-zhuang/zhun-bei-huan-jing/mysqljian-yi-pei-zhi.md)
   * [二进制安装](er-jin-zhi-an-zhuang/er-jin-zhi-an-zhuang.md)
   * 源代码安装
 * [接入第三方](jie-ru-di-san-fang.md)
