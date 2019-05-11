@@ -1,9 +1,9 @@
 # Summary
 
 * [介绍](README.md)
-* [B社区](chapter1.md)
+* [交流社区](chapter1.md)
 * [变更日志](changelog.md)
-* [安装](er-jin-zhi-an-zhuang.md)
+* [快速安装](er-jin-zhi-an-zhuang.md)
   * 二进制安装
   * 源代码安装
 * [使用手册](shi-yong-shou-ce.md)
