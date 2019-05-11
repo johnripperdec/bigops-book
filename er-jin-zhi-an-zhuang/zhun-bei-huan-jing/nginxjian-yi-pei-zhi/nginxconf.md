@@ -1,5 +1,7 @@
 # Nginx主配置文件nginx.conf
 
+**建议目录/etc/nginx/**
+
 ```
 user  root root;
 worker_processes 8;
@@ -37,7 +39,7 @@ http {
     client_header_timeout 1460;
     client_body_timeout 1460;
     send_timeout 1460;
-    
+
     fastcgi_connect_timeout 300;
     fastcgi_send_timeout 300;
     fastcgi_read_timeout 300;
