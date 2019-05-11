@@ -15,6 +15,5 @@
 * [使用手册](shi-yong-shou-ce.md)
 * [接入SSO](jie-ru-sso.md)
 * [API](api.md)
-* [QQ讨论群](qqtao-lun-qun.md)
 * [客户案例](ke-hu-an-li.md)
 
