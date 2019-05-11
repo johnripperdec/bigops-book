@@ -2,6 +2,7 @@
 
 理论上支持所有Linux操作系统，建议使用：
 
+* CentOS 5 x86 64位
 * CentOS 6 x86 64位
 * CentOS 7 x86 64位
 
@@ -11,21 +12,21 @@
 
 **CentOS 5 x86 64位运行**
 
-> wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-5.repo
+> wget -O /etc/yum.repos.d/CentOS-Base.repo [http://mirrors.aliyun.com/repo/Centos-5.repo](http://mirrors.aliyun.com/repo/Centos-5.repo)
 >
-> wget -O /etc/yum.repos.d/epel.repo http://mirrors.aliyun.com/repo/epel-5.repo
+> wget -O /etc/yum.repos.d/epel.repo [http://mirrors.aliyun.com/repo/epel-5.repo](http://mirrors.aliyun.com/repo/epel-5.repo)
 
 **CentOS 6 x86 64位运行**
 
-> wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-6.repo
+> wget -O /etc/yum.repos.d/CentOS-Base.repo [http://mirrors.aliyun.com/repo/Centos-6.repo](http://mirrors.aliyun.com/repo/Centos-6.repo)
 >
-> wget -O /etc/yum.repos.d/epel.repo http://mirrors.aliyun.com/repo/epel-6.repo
+> wget -O /etc/yum.repos.d/epel.repo [http://mirrors.aliyun.com/repo/epel-6.repo](http://mirrors.aliyun.com/repo/epel-6.repo)
 
 **CentOS 7 x86 64位运行**
 
-> wget -O /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-7.repo
+> wget -O /etc/yum.repos.d/CentOS-Base.repo [http://mirrors.aliyun.com/repo/Centos-7.repo](http://mirrors.aliyun.com/repo/Centos-7.repo)
 >
-> wget -O /etc/yum.repos.d/epel.repo http://mirrors.aliyun.com/repo/epel-7.repo
+> wget -O /etc/yum.repos.d/epel.repo [http://mirrors.aliyun.com/repo/epel-7.repo](http://mirrors.aliyun.com/repo/epel-7.repo)
 
 **remi仓库**
 
