@@ -7,7 +7,7 @@
 
 # 依赖仓库
 
-epel仓库、remi仓库
+### epel仓库、remi仓库
 
 **CentOS 6 x86 64位运行**
 
@@ -21,7 +21,7 @@ epel仓库、remi仓库
 >
 > wget -O /etc/yum.repos.d/epel.repo [http://mirrors.aliyun.com/repo/epel-7.repo](http://mirrors.aliyun.com/repo/epel-7.repo)
 
-**remi仓库**
+### **remi仓库**
 
 > remi包含最新版本 PHP 和 MySQL 包的 Linux 源，由 Remi 提供维护。请按照 [向导](https://rpms.remirepo.net/wizard/ "向导") 的指示安装配置。
 
@@ -39,5 +39,9 @@ MySQL，建议版本为5.7或5.8，如果已安装就忽略。也可以安装其
 
 [MySQL建议配置](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/mysqljian-yi-pei-zhi.md)
 
-[Nginx建议配置](/Nginx建议配置 "MySQL建议配置")
+[Nginx主文件建议配置](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/nginxjian-yi-pei-zhi/nginxconf.md)
+
+[Nginx统一登录建议配置](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/nginxjian-yi-pei-zhi/ssoconf.md)
+
+[Nginx核心系统建议配置](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/nginxjian-yi-pei-zhi/workconf.md)
 

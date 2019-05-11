@@ -1,4 +1,4 @@
-# 统一登录SSO的Nginx配置文件
+# 统一登录的Nginx配置文件
 
 **建议目录/etc/nginx/conf.d/**
 

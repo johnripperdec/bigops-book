@@ -1,4 +1,4 @@
-# 核心项目work的Nginx配置文件
+# 核心系统work的Nginx配置文件
 
 **建议路径/etc/nginx/conf.d/**
 
