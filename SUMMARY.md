@@ -6,8 +6,8 @@
 * 二进制安装
 * 源代码安装
 * [使用手册](shi-yong-shou-ce.md)
-* QQ讨论群
 * API
+* [QQ讨论群](qqtao-lun-qun.md)
 * 客户案例
 * [联系我们](shi-yong-shou-ce.md)
 
