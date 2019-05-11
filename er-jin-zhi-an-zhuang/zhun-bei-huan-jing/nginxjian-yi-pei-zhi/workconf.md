@@ -1,4 +1,4 @@
-# 核心系统work的Nginx配置文件，建议路径/etc/nginx/conf.d/
+# 核心系统work配置文件，建议存放目录/etc/nginx/conf.d/
 
 ### 修改server\_name为你的域名
 

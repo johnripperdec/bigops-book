@@ -1,4 +1,4 @@
-# Nginx主配置文件nginx.conf，**建议目录/etc/nginx/**
+# 主配置文件nginx.conf，**建议存放目录/etc/nginx/**
 
 ```
 user  root root;

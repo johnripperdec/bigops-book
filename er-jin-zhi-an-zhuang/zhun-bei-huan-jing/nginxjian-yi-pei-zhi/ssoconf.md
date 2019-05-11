@@ -1,4 +1,4 @@
-# 统一登录的Nginx配置文件，建议目录/etc/nginx/conf.d/
+# 统一登录配置文件，建议存放目录/etc/nginx/conf.d/
 
 ### 修改2处server\_name为你的域名
 
