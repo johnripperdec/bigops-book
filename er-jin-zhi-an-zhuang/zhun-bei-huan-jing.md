@@ -27,7 +27,7 @@ epel仓库、remi仓库
 
 # 依赖软件
 
-Nginx、MySQL、OpenSSL、Medusa等。
+Nginx、OpenSSL、Medusa等。
 
 > yum -y install nginx openssl openssl-devel medusa
 
@@ -35,5 +35,11 @@ MySQL，建议版本为5.7或5.8，如果已安装就忽略。也可以安装其
 
 > yum -y install mysql-community-server mysql-community-client mysql-community-devel
 
-[点我，MySQL 5.7数据库配置参](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/mysqljian-yi-pei-zhi.md)
+### **建议配置**
+
+[MySQL建议配置](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/mysqljian-yi-pei-zhi.md)
+
+Nginx建议配置
+
+
 
