@@ -1,8 +1,6 @@
-# 核心系统work的Nginx配置文件
+# 核心系统work的Nginx配置文件，建议路径/etc/nginx/conf.d/
 
-**建议路径/etc/nginx/conf.d/**
-
-**修改server\_name为你的域名**
+### 修改server\_name为你的域名
 
 ```
 upstream workbe {

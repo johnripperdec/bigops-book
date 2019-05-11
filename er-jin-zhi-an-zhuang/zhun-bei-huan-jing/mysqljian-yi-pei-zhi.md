@@ -1,5 +1,17 @@
 # MySQL 5.7 建议配置，MySQL 5.8类似。
 
+### 修改数据库存储位置
+
+innodb\_data\_home\_dir=/opt/mysql 
+
+innodb\_log\_group\_home\_dir=/opt/mysql
+
+### **根据内存情况修改，建议大一些**
+
+innodb\_buffer\_pool\_size=3G
+
+
+
 ```
 [client]
 default-character-set=utf8mb4
