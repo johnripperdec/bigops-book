@@ -13,9 +13,9 @@
   * [二进制安装](er-jin-zhi-an-zhuang/er-jin-zhi-an-zhuang.md)
   * [源代码安装](er-jin-zhi-an-zhuang/yuan-dai-ma-an-zhuang.md)
 * [接入第三方](jie-ru-di-san-fang.md)
-* [使用手册](shi-yong-shou-ce.md)
 * [API](api.md)
 * [QQ讨论群](qqtao-lun-qun.md)
 * [客户案例](ke-hu-an-li.md)
-* [联系我们](shi-yong-shou-ce.md)
+* [联系我们](lian-xi-wo-men.md)
+* [使用手册](shi-yong-shou-ce.md)
 
