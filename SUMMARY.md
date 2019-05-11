@@ -1,7 +1,7 @@
 # Summary
 
 * [介绍](README.md)
-* [交流社区](chapter1.md)
+* [社区](chapter1.md)
 * [变更日志](changelog.md)
 * [快速安装](er-jin-zhi-an-zhuang.md)
   * 二进制安装
