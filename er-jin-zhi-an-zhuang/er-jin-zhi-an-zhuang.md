@@ -22,7 +22,7 @@
 >
 > tcp6       0      0 127.0.0.1:30003         :::\*                    LISTEN      2710/java
 
-**访问安装向导**
+**访问安装向导，根据实际情况填写**
 
 [http://work.bigops.com/wizard/](http://work.bigops.com/wizard/)
 
