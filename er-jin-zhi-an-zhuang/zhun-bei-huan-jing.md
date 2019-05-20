@@ -39,13 +39,9 @@ MySQL，建议版本为5.7或5.8，如果已安装就忽略。也可以安装其
 
 > yum -y install mysql-community-server mysql-community-client mysql-community-devel
 
-### **建议配置**
+### LNMP（Linux+Nginx+MySQL+PHP）**建议配置**
 
-[MySQL建议配置](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/mysqljian-yi-pei-zhi.md)
+[参考](https://github.com/yunweibang/bigops-LNMP-config)
 
-[Nginx主文件建议配置](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/nginxjian-yi-pei-zhi/nginxconf.md)
 
-[Nginx统一登录建议配置](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/nginxjian-yi-pei-zhi/ssoconf.md)
-
-[Nginx核心系统建议配置](/er-jin-zhi-an-zhuang/zhun-bei-huan-jing/nginxjian-yi-pei-zhi/workconf.md)
 
