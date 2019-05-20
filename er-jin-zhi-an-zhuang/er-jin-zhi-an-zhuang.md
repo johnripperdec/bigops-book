@@ -1,8 +1,8 @@
-### **下载文件页面**
+### **下载文件到/opt目录**
 
 [http://www.bigops.com/dl.html](http://www.bigops.com/dl.html)
 
-### **下载文件到/opt目录，并解压文件**
+### **解压文件**
 
 > tar zxvf bigops-1.0.0.tar.gz
 
@@ -14,7 +14,7 @@
 
 > sh /opt/bigops/bin/start.sh
 
-**检查服务是否启动**
+### **检查服务是否启动**
 
 > \# netstat -nptl\|egrep '30002\|30003'
 >
@@ -22,7 +22,7 @@
 >
 > tcp6       0      0 127.0.0.1:30003         :::\*                    LISTEN      2710/java
 
-**访问安装向导，根据实际情况填写**
+### **访问安装向导，根据实际情况填写**
 
 [http://work.bigops.com/wizard/](http://work.bigops.com/wizard/)
 
