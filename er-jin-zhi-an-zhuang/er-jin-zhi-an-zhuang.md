@@ -24,7 +24,7 @@
 
 **访问安装向导**
 
-[http://work.bigops.com/wizard/](http://work.bigops.com/wizard/![]%28/assets/Xnip2019-05-20_16-05-02.jpg)
+[http://work.bigops.com/wizard/](http://work.bigops.com/wizard/)
 
-[!\[\]\(/assets/Xnip2019-05-20\_16-05-02.jpg](http://work.bigops.com/wizard/![]%28/assets/Xnip2019-05-20_16-05-02.jpg)\)
+![](/assets/Xnip2019-05-20_16-05-02.jpg)
 
