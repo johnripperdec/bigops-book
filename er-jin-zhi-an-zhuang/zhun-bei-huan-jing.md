@@ -5,6 +5,10 @@
 * CentOS 6 x86 64位
 * CentOS 7 x86 64位
 
+## 数据库 {#h2-u6570u636Eu5E93}
+
+* MySQL 5.5 或更高版本
+
 # 依赖仓库
 
 ### epel仓库、remi仓库
@@ -42,6 +46,4 @@ MySQL，建议版本为5.7或5.8，如果已安装就忽略。也可以安装其
 ### LNMP（Linux+Nginx+MySQL+PHP）**建议配置**
 
 [参考](https://github.com/yunweibang/bigops-LNMP-config)
-
-
 
