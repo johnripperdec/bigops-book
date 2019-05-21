@@ -8,7 +8,7 @@
 
 ---
 
-支持广泛的开源软件统一认证，包括Zabbix、Jira、Jenkins、GitLab等，还在不断增加中。
+支持广泛的开源软件统一认证，包括Zabbix、Jira、Jenkins、confluence、GitLab等，还在不断增加中。
 
 ### 千人千面控制台
 
