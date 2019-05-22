@@ -1,6 +1,6 @@
 # 中文文档
 
-[中文文档1.0](https://ywb.gitbook.io/bigops-book/ "中文文档1.0")
+[中文文档1.0](http://docs.bigops.com)
 
 # 功能特点
 
